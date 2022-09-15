@@ -4,6 +4,11 @@
 	font-family: 'courier', sans-serif;
 }
 
+body{
+	/*background-color: #139485;*/
+	background: #f5f0d0;
+}
+
 .toc-list ol {
   padding-inline-start: 2ch;
 }
