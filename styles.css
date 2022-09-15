@@ -3,3 +3,7 @@
 	/*remove a litle space in boder*/
 	font-family: 'courier', sans-serif;
 }
+
+.toc-list ol {
+  padding-inline-start: 2ch;
+}
