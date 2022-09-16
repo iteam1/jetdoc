@@ -1,2 +1,2 @@
 # Jetboy-docs
-![banner](./assets/banner)
+![banner](/assets/banner)
