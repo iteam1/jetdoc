@@ -21,9 +21,14 @@ li:before { content: counters(item, ".") " "; counter-increment: item }
 	text-align: center;
 }
 
-.column {
+.column2 {
 	float: left;
 	width: 50%;
+  }
+
+  .column3 {
+	float: left;
+	width: 33.33%;
   }
   
   /* Clear floats after the columns */
